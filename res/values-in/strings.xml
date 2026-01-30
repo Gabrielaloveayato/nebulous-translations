@@ -523,7 +523,7 @@
     <string name="Rejoin_Game">"Bergabung Kembali Permainan"</string>
     <string name="PRIZES">"HADIAH"</string>
     <string name="Enable_Custom_Skin">"Aktifkan Kustom Skin"</string>
-    <string name="Use_Custom_Skin">"Custom\nSkin"</string>
+    <string name="Use_Custom_Skin">"pakai kustom skin"</string>
     <string name="custom_skin_description">"Fitur ini memungkinkan Anda menggunakan foto profil Anda atau file Skin Anda. Ini hanya akan mengubah Skin yang anda lihat. Pemain lain tidak akan melihat Kustom Skin Anda."</string>
     <string name="CUSTOM_SKIN">"KUSTOM SKIN"</string>
     <string name="Facebook_Profile">"Profil Facebook"</string>
@@ -545,7 +545,7 @@
     <string name="HISTORY">"RIWAYAT"</string>
     <string name="CLAN_HISTORY">"RIWAYAT KLAN"</string>
     <string name="Love_Nebulous_">"Cinta Nebulous?"</string>
-    <string name="Please_support_Nebulous_by_rating_it_">"Mohon Dukungan Nebulous oleh penilaian ini."</string>
+    <string name="Please_support_Nebulous_by_rating_it_">"Mohon dukung Nebulous dengan menilai ini."</string>
     <string name="MAYHEM_MODE">"MODE MAYHEM"</string>
     <string name="Times_Teleported_">"Kali Teleportasi:"</string>
     <string name="Powerups_Used_">"Powerup Digunakan:"</string>
@@ -612,7 +612,7 @@
     <string name="Collect_5_000_moons_">"Mengumpulkan 5.000 Bulan."</string>
     <string name="Collect_10_000_moons_">"Mengumpulkan 10.000 Bulan."</string>
     <string name="BLUETOOTH">"BLUETOOTH"</string>
-    <string name="HOST">"HOST"</string>
+    <string name="HOST">"tuan rumah"</string>
     <string name="This_device_does_not_support_bluetooth_">"Perangkat ini tidak mendukung bluetooth."</string>
     <string name="member_permissions">"Izin Anggota"</string>
     <string name="edit">"SUNTING"</string>
@@ -644,9 +644,9 @@
     <string name="Approved">"Disetujui"</string>
     <string name="Rejected">"Ditolak"</string>
     <string name="Refunded">"Dikembalikan"</string>
-    <string name="contribution_warning">"Apakah Anda yakin ingin menyumbangkan plasma ini? Kontribusi tidak akan dikembalikan."</string>
+    <string name="contribution_warning">"peringatan konstribusi."</string>
     <string name="Upload">"Mengunggah"</string>
-    <string name="upload_warning">"Apakah Anda yakin ingin mengunggah Skin ini? pemain lain akan dapat melihat Skin ini. Ini bisa memakan waktu hingga satu minggu untuk Skin anda untuk ditinjau. Skin yang tidak pantas akan ditolak dan tidak akan dikembalikan!"</string>
+    <string name="upload_warning">"peringatan unggahan"</string>
     <string name="In_Review">"Dalam Ulasan"</string>
     <string name="Account_Uploads">"Skin Unggahan Saya"</string>
     <string name="Clan_Uploads">"Klan Skin Upload"</string>
@@ -696,16 +696,16 @@
     <string name="Delete_Message">"Hapus Pesan"</string>
     <string name="BLOCK">"BLOKIR"</string>
     <string name="DELETE">"HAPUS"</string>
-    <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"Catatan Penting: Jika anda ingin mengetahui seseorang sudah dibuka blokir, kirim permintaan teman ke pada orang itu, jika permintaan teman terlihat di daftar teman anda itu berarti sudah terbuka blokir."</string>
+    <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"Catatan Penting: anda bisa membuka blokiran seseorang dengan mengirimkan mereka permintaan teman."</string>
     <string name="Select_Friend">"Pilih Teman"</string>
     <string name="Failed_to_send_mail_">"Kirim surat gagal."</string>
     <string name="In_Game_Mail">"Tampilkan Mail Permainan"</string>
     <string name="Nav_Buttons_">"Tombol Navigasi:"</string>
-    <string name="account_warning">"Jangan pernah berbagi password akun Anda atau informasi pribadi dengan siapa pun untuk alasan apapun!"</string>
+    <string name="account_warning">"peringatan akun"</string>
     <string name="Clan_Hero">"PAHLAWAN KLAN"</string>
     <string name="Win_1000_Clan_Wars">"Menang 1.000 Klan Wars"</string>
     <string name="NAME_COLOR">"WARNA NAMA"</string>
-    <string name="name_color_instructions">"Pilih karakter huruf yang ingin Anda ubah kemudian pilih warna yang akan Anda taruh ke huruf itu untuk merubah warna huruf itu."</string>
+    <string name="name_color_instructions">"intruksi warna nama"</string>
     <string name="Cannot_change_this_character_">"Tidak dapat mengubah karakter ini"</string>
     <string name="ZOMBIE_APOCALYPSE">"KIAMAT ZOMBI"</string>
     <string name="Survive_a_Zombie_Apocalypse">"Bertahan Kiamat Zombi"</string>
@@ -891,9 +891,9 @@
     <string name="BANNED">DILARANG</string>
     <string name="CLAN_MEMBERS">ANGGOTA KLAN</string>
     <string name="CLAN_REQUESTS">PERSETUJUAN ANGGOTA</string>
-    <string name="Pet_1">Pet 1</string>
-    <string name="Pet_2">Pet 2</string>
-    <string name="Second_Pet">Anda dapat menggunakan 2 Pet sekaligus!</string>
+    <string name="Pet_1">hewan 1</string>
+    <string name="Pet_2">hewan 2</string>
+    <string name="Second_Pet">hewan kedua!</string>
     <string name="This_item_requires">Item ini memerlukan </string>
     <string name="not_enough_plasma">Plasma tidak cukup.</string>
     <string name="MARK_UNREAD">TANDAI BELUM DIBACA</string>
@@ -1130,7 +1130,7 @@
     <string name="x4_Clan_XP_1_Day">4x XP KLAN 1 Hari</string>
     <string name="CHARGE_UP">MENGISI DAYA</string>
     <string name="CLAN_DESCRIPTION_COLOR">WARNA DESKRIPSI KLAN</string>
-    <string name="Responsible_Pet_Owner">Pemilik Pet Tanggungjawab</string>
+    <string name="Responsible_Pet_Owner">tanggung jawab pemilik Pet</string>
     <string name="Animal_Tamer">Pawang</string>
     <string name="Crocodile_Hunter">Pemburu Buaya</string>
     <string name="Get_A_Pet_To_Level_X_">Naikkan pet ke level %d.</string>
@@ -1157,8 +1157,8 @@
     <string name="Winner_Winner_Chicken_Dinner">Winner Winner Chicken Dinner!</string>
     <string name="Win_a_Battle_Royale_">Memenangkan Pertempuran Royale.</string>
     <string name="Battle_">Pertempuran!</string>
-    <string name="BATTLE_ROYALE">PERTEMPURAN ROYALE</string>
-    <string name="Battle_Royale">Pertempuran Royale</string>
+    <string name="BATTLE_ROYALE">PERTEMPURAN kerajaan </string>
+    <string name="Battle_Royale">Pertempuran kerajaan</string>
     <string name="The_winner_will_receive_x_plasma_">Pemenang akan mendapatkan %s plasma!</string>
     <string name="admin_commands">"
 Perintah:
@@ -1178,7 +1178,7 @@ Perintah:
 !stats
 !info"
 </string>
-    <string name="ID_Sort">ID Sort</string>
+    <string name="ID_Sort">sortir id</string>
     <string name="Master_Tamer">Penjinak Master</string>
     <string name="Get_ALL_Pets_To_Level_100_">Naikkan SEMUA Pet Ke Level 100</string>
     <string name="TAMER">PENJINAK</string>
@@ -1190,7 +1190,7 @@ Perintah:
     <string name="DELETE_ACCOUNT">HAPUS AKUN</string>
     <string name="delete_prompt">Apakah Anda yakin ingin menghapus akun Anda? Ini PERMANEN dan TIDAK DAPAT DIBATALKAN!</string>
     <string name="Type">Ketik</string>
-    <string name="Complete_campaign_mission_">Selesaikan kampanye misi</string>
+    <string name="Complete_campaign_mission_">Selesaikan misi kampanye </string>
     <string name="Specify_Reason_">Alasan spesifik:</string>
     <string name="FREE_FOR_ALL">GRATIS UNTUK SEMUA</string>
     <string name="SPECIAL">SPESIAL</string>
@@ -1207,12 +1207,12 @@ Perintah:
     <string name="India">India</string>
     <string name="Tutorial">Tutorial</string>
     <string name="TYCOON">HARTAWAN</string>
-    <string name="CLAN_BACKGROUND_COLOR">WARNA BACKGROUND KLAN </string>
+    <string name="CLAN_BACKGROUND_COLOR"> latar belakang warna klan </string>
     <string name="activate">Mengaktifkan</string>
     <string name="clan_id">ID KLAN</string>
-    <string name="language_change_warning">Mengubah bahasa akan menyebabkan aplikasi dimulai ulang</string>
-    <string name="xmas_gift_boost_message">Kamu mendapatkan hadiah 3x Plasma Tambahan untuk 1 hari!</string>
-    <string name="no_response">Tidak bisa bergabung ke server. Mohon cek koneksi internet Anda.</string>
+    <string name="language_change_warning">peringatan merubah bahasa</string>
+    <string name="xmas_gift_boost_message">pesan meningkatkan hadiah natal!</string>
+    <string name="no_response">Tidak ada respon.</string>
     <string name="RAMADAN">RAMADHAN</string>
     <string name="SUDDEN_ATTACK">SERANGAN MENDADAK</string>
     <string name="_2x_skin_resolution">2x Skin Resolusi</string>
